@@ -9,7 +9,6 @@ using System.Reflection;
 using System.Text;
 using OpenQA.Selenium.Remote;
 
-
 namespace SeleniumDemoUI
 {
     [TestClass]
